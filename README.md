@@ -14,4 +14,5 @@ i am ichigo yes i do funny code things yes
 lists of things i care about
 
 | things i care about | things i dont care about |
+| ----------- | ----------- |
 | sleep | you |
