@@ -1,5 +1,7 @@
 i am ichigo yes i do funny code things yes
 
+---
+
 **things im good at**
 - nothing
 - nothing
