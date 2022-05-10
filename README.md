@@ -1,20 +1,7 @@
-i am ichigo yes i do funny code things yes
+# Ichigo
+##### pc/ps3 cheat developer
+##### gui enthusiast
+##### DM me on Discord for enquiries.
+##### Discord: Ichigo#7077
 
----
-
-**things im good at**
-- nothing
-- nothing
-- nothing
-
----
-
-- [x] being retar
-
----
-
-lists of things i care about
-
-| things i care about | things i dont care about |
-| ----------- | ----------- |
-| sleep | you |
+Developed divinity.solutions (rip 🕊️)
